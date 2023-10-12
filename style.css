@@ -1,0 +1,23 @@
+.gradient-background {
+    background: linear-gradient(300deg, #00bfff, #ff4c68, #ef8172);
+    background-size: 180% 180%;
+    animation: gradient-animation 18s ease infinite;
+  }
+  div{
+    background-color: #ef8172;
+    
+  }
+
+h1{
+    
+    font-family: 'Times New Roman', Times, serif;
+}
+p{
+    font-style: italic;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+button{
+    align-items: center;
+    justify-content: center;
+}
